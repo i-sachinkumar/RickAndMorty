@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="characters">Characters</string>
+    <string name="gender">Gender: @{sharedViewModel.character.gender}</string>
+</resources>
